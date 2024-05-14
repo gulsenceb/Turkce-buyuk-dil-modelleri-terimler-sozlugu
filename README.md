@@ -29,3 +29,5 @@
 **few-shot learning**: Az sayıda örnekle öğrenme
 
 **continual learning**: Sürekli öğrenme
+
+**textual inference**: Metinler arasında mantıksal ilişki çıkarımı (örn. destekliyor, çelişiyor, ilgisiz)
