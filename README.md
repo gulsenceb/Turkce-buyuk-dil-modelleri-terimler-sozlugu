@@ -34,3 +34,6 @@
 
 **trade-off**: Feragat etme
 
+**PLM**: Öneğitimli dil modeli
+
+**LLM**: Büyük dil modeli
