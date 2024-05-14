@@ -28,4 +28,4 @@
 
 **few-shot learning**: Az sayıda örnekle öğrenme
 
-**continual learning**: sürekli öğrenme
+**continual learning**: Sürekli öğrenme
