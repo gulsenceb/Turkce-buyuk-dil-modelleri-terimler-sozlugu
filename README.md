@@ -4,11 +4,11 @@
 
 ## Büyük Dil Modelleri Terimleri
 
-**continual fine-tuning (CFT)**: Uyarlamayı devam ettirme
+**continual fine-tuning (CFT)**: Devam eden uyarlama
 
-**continual learning**: Sürekli öğrenme
+**continual learning**: Devam eden öğrenme
 
-**continual Pre-Training (CPT)**: Ön eğitimi devam ettirme
+**continual Pre-Training (CPT)**: Devam eden ön eğitim
 
 **domain specific datasets**: Alana uyarlama veri kümeleri
 
