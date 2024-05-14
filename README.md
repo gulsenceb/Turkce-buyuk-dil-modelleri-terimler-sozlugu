@@ -1,6 +1,5 @@
 # turkce-buyuk-dil-modelleri-terimler-sozlugu
 # turkish-large-language-models-terminology-dictionary
-# turkce-buyuk-dil-modelleri-terimler-sozlugu
 
 
 ## Büyük Dil Modelleri Terimleri
