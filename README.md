@@ -31,3 +31,6 @@
 **continual learning**: Sürekli öğrenme
 
 **textual inference**: Metinler arasında mantıksal ilişki çıkarımı (örn. destekliyor, çelişiyor, ilgisiz)
+
+**trade-off**: Feragat etme
+
