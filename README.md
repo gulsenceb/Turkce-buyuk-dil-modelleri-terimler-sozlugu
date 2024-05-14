@@ -4,38 +4,46 @@
 
 ## Büyük Dil Modelleri Terimleri
 
-**pretraining datasets**: Öneğitim veri kümeleri
+**continual fine-tuning (CFT)**: Uyarlamayı devam ettirme
 
-**language adaptation datasets**: Dile uyarlama veri kümeleri     
-
-**domain specific datasets**: Alana uyarlama veri kümeleri
-
-**instruction tuning datasets**: Göreve  uyarlama veri kümeleri
-
-**multi modal datasets**: Çok kipli veri kümeleri
-
-**fine tuning**: Uyarlama
-
-**instruction tuning**: Göreve uyarlama
-
-**prompt**: İstem
+**continual learning**: Sürekli öğrenme
 
 **continual Pre-Training (CPT)**: Ön eğitimi devam ettirme
 
-**domain-adaptive pre-training (DAP)**: Alana uyarlama ön eğitimi 
+**domain specific datasets**: Alana uyarlama veri kümeleri
 
-**continual fine-tuning (CFT)**: Uyarlamayı devam ettirme
+**domain-adaptive pre-training (DAP)**: Alana uyarlama ön eğitimi 
 
 **few-shot learning**: Az sayıda örnekle öğrenme
 
-**continual learning**: Sürekli öğrenme
+**fine tuning**: Uyarlama
+
+**instruction tuning datasets**: Göreve  uyarlama veri kümeleri
+
+**instruction tuning**: Göreve uyarlama
+
+**language adaptation datasets**: Dile uyarlama veri kümeleri     
+
+**large language model (LLM)**: Büyük dil modeli
+
+**multi modal datasets**: Çok kipli veri kümeleri
+
+**pretrained language model (PLM)**: Öneğitimli dil modeli
+
+**pretraining datasets**: Öneğitim veri kümeleri
+
+**prompt**: İstem
+
+**retrieval augmented generation (RAG)**: Bilgi erişimi destekli üretim
 
 **textual inference**: Metinler arasında mantıksal ilişki çıkarımı (örn. destekliyor, çelişiyor, ilgisiz)
 
 **trade-off**: Ödün verme / feragat etme
 
-**PLM**: Öneğitimli dil modeli
 
-**LLM**: Büyük dil modeli
 
-**RAG**: Bilgi erişimi destekli üretim
+
+
+
+
+
