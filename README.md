@@ -4,9 +4,9 @@
 
 ## Büyük Dil Modelleri Terimleri
 
-**continual fine-tuning (CFT)**: Devam eden uyarlama
+**continual fine-tuning (CFT)**: Uyarlayadurma (Devam eden uyarlama)
 
-**continual learning**: Devam eden öğrenme
+**continual learning**: Öğrenedurma (Devam eden öğrenme)
 
 **continual Pre-Training (CPT)**: Devam eden ön eğitim
 
