@@ -32,7 +32,7 @@
 
 **textual inference**: Metinler arasında mantıksal ilişki çıkarımı (örn. destekliyor, çelişiyor, ilgisiz)
 
-**trade-off**: Feragat etme
+**trade-off**: ödün verme / feragat etme
 
 **PLM**: Öneğitimli dil modeli
 
