@@ -16,7 +16,7 @@
 
 **few-shot learning**: Az sayıda örnekle öğrenme
 
-**fine tuning**: Uyarlama
+**fine-tuning**: Uyarlama
 
 **instruction tuning datasets**: Göreve  uyarlama veri kümeleri
 
