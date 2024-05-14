@@ -37,3 +37,5 @@
 **PLM**: Öneğitimli dil modeli
 
 **LLM**: Büyük dil modeli
+
+**RAG**: Bilgi erişimi destekli üretim
